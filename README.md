@@ -1,6 +1,6 @@
 📚Estudyng: analysis and systems development
 
-☕Progamming Languages: JavaScript/Typescript(React/NodeJS/API) Python(pandas/matplotlib/numpy)HTML5,Css
+☕Progamming Languages: JavaScript/Typescript(React/NodeJS/API) Python,HTML5,Css
 
 📩contact email: avelinomatheus2703@gmail.com
 
